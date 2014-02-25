@@ -1,0 +1,4 @@
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Shared.Library\bin\Debug\Shared.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Shared.Library\bin\Debug\Shared.Library.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Shared.Library\obj\Debug\Shared.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Shared.Library\obj\Debug\Shared.Library.pdb

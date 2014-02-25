@@ -1,0 +1,11 @@
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\bin\Debug\Server.exe
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\bin\Debug\Shared.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\bin\Debug\Server.exe.config
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\bin\Debug\Server.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\bin\Debug\Shared.Library.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\obj\Debug\Server.exe
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Server\obj\Debug\Server.pdb
+C:\Users\RandQm\Desktop\ClientServerFramework\Server\bin\Debug\Server.exe.config
+C:\Users\RandQm\Desktop\ClientServerFramework\Server\obj\Debug\Server.exe
+C:\Users\RandQm\Desktop\ClientServerFramework\Server\obj\Debug\Server.pdb

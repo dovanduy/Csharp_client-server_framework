@@ -1,0 +1,7 @@
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\bin\Debug\Client.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\bin\Debug\Client.Library.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\bin\Debug\Shared.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\bin\Debug\Shared.Library.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\obj\Debug\Client.Library.csprojResolveAssemblyReference.cache
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\obj\Debug\Client.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client.Library\obj\Debug\Client.Library.pdb

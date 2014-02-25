@@ -1,0 +1,17 @@
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Client.exe
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Shared.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Client.Library.dll
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Client.Library.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Shared.Library.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.Authentication.resources
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.exe
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Client.exe.config
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\bin\Debug\Client.pdb
+C:\Users\F31D0P1PC05\Documents\Visual Studio 2012\Projects\ClientServerFramework\Client\obj\Debug\Client.GameForm.resources
+C:\Users\RandQm\Desktop\ClientServerFramework\Client\bin\Debug\Client.exe.config
+C:\Users\RandQm\Desktop\ClientServerFramework\Client\obj\Debug\Client.exe
+C:\Users\RandQm\Desktop\ClientServerFramework\Client\obj\Debug\Client.pdb
